@@ -1,0 +1,8 @@
+{
+	"LastFM": {
+		"key": "lastfm_api_key",
+		"delay": 25,
+		"users": ["username1", "username2", "username4"],
+		"format": "LastFM: [{user}] {song} - {artist}"
+	}
+}
