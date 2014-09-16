@@ -1,0 +1,3 @@
+[submodule "libs/encryp"]
+	path = libs/encryp
+	url = git://github.com/NT5/pyencryp.git
